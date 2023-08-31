@@ -1,18 +1,16 @@
-# Desafio Lâmpada DNC - Manipulação do DOM
+# Desafio Tabuada DNC - Manipulação do DOM
 
-Este repositório contém meu projeto para reforçar o aprendizado com manipulação do DOM, onde explorei a criação dinâmica de elementos HTML, estilização com CSS e interação usando JavaScript.
+Este repositório contém meu primeiro desafio colocando em pratica o aprendizado com manipulação do DOM.
 
 ## Visão Geral
 
-Neste projeto, eu criei uma aplicação simples que demonstra meu conhecimento em manipulação do DOM. 
-A aplicação consiste em, quando ao clicar no botão `Ligar`a lâmpada se ascenda e o inverso ocorre quando é clicado no botão `Desligar`. 
-Por fim, a lâmpada se quebra quando clicado em cima da lâmpada. Nesta etapa foi criado uma condição onde a lâmpada não deva ascender quando quebrada, afinal na vida real o esperado é a troca do objeto.
+A aplicação consiste em uma aplicação web de tabuada, onde o usuário escolhe qual número deseja saber e até quanto quando executar.
 
 ## Funcionalidades
 
 - [x] Criação dinâmica de elementos HTML usando JavaScript.
 - [x] Estilização dos elementos utilizando CSS.
-- [x] Manipulação interativa dos elementos por meio de eventos JavaScript: addEventListener()
+- [x] Manipulação interativa dos elementos por meio do JavaScript: window.document.getElementById(), onclick()
 
 ## Como Executar
 
